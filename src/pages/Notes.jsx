@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react'
 import Grid from '@material-ui/core/Grid'
-import Paper from '@material-ui/core/Paper'
 import Container from '@material-ui/core/Container'
 import NoteCard from '../components/NoteCard'
 
